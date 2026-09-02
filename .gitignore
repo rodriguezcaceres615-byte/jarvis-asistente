@@ -1,0 +1,8 @@
+# Archivos de entorno / secretos - nunca subir
+.env
+*.env
+!.env.example
+
+# Temporales
+*.log
+.DS_Store
